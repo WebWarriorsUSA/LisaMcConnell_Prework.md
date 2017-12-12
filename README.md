@@ -38,3 +38,10 @@ What is semantic markup?
 Semantic markup is HTML that introduces meaning to the web page rather than just presentation. For example, a <p> tag indicates that the enclosed text is a paragraph.
 
 What are three new semantic elements introduced in HTML 5? Use page 431 in the book to find more about these new elements.
+Header/footer
+Navigation
+Articles
+Asides
+Sections 
+Heading groups
+
